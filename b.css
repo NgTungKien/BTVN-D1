@@ -1,0 +1,15 @@
+.g{
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif
+}
+.e{
+    position:relative; top:100px;
+    display: flex;
+    justify-content: space-around;
+}
+.n{
+    position:relative; top:250px;
+    display: flex;
+    justify-content: space-around;
+}
